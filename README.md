@@ -4,7 +4,7 @@
 
 <p align="center">
 Hey there! I'm a Front-End Developer based in Atlanta, Georgia, passionate about what I do.  
-Apart from programming, I also enjoy watching football and playing video games. 🎮⚽
+Apart from programming, I also enjoy watching football(soccer) and playing video games. 🎮⚽
 </p>
 
 <p align="center">Thanks for stopping by!</p>
