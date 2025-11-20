@@ -2,18 +2,6 @@
 
 <div align="center">
 
-<!-- Social Links - Simple and clean -->
-
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/pavongurung">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://dailycosmos.pavongurung.me">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/My_Portfolio-black%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:YOUR_EMAIL@student.gsu.edu">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-
 <br /><br />
 
 <!-- Bio Section -->
