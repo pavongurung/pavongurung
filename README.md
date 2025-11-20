@@ -21,7 +21,6 @@ I focus mainly on Front-End development right now, but I'm messing around with P
 <!-- What I'm up to -->
 
 <p align="left">
- <b>Working on:</b> Creating random stuff
 
 
 
