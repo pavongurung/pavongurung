@@ -19,7 +19,7 @@
 <!-- Bio Section -->
 
 <p align="center" width="400px">
-I'm a Junior <b>Computer Science</b> student at <b>Georgia State University</b> (Go Panthers! 🐾).
+I'm a Junior <b>Computer Science</b> student at <b>Georgia State University</b>.
 
 
 
