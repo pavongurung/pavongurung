@@ -1,81 +1,29 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=34&duration=3000&pause=3000&color=7F00FF&center=true&vCenter=true&random=false&width=900&height=90&lines=Hello+there%2C+I'm+Pavon+Gurung)](https://git.io/typing-svg)
+
 <div align="center">
 
-<!-- Social Links - Simple and clean -->
-
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/pavongurung">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://dailycosmos.pavongurung.me">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/My_Portfolio-black%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:YOUR_EMAIL@student.gsu.edu">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-
-<br /><br />
-
-<!-- Bio Section -->
-
-<p align="center" width="400px">
-I'm a Junior <b>Computer Science</b> student at <b>Georgia State University</b> (Go Panthers! 🐾).
-
-
-
-
-
-I focus mainly on Front-End development right now, but I'm messing around with Python and backend stuff too.
+<p align="center">
+Hey there! I'm a Front-End Developer based in Atlanta, Georgia, passionate about what I do.  
+Apart from programming, I also enjoy watching football(soccer) and playing video games. 🎮⚽
 </p>
 
-<br />
+<p align="center">Thanks for stopping by!</p>
 
-<!-- What I'm up to -->
-
-<p align="left">
-🔭 <b>Working on:</b> <a href="https://github.com/pavongurung/daily-cosmos">Daily Cosmos</a> (A NASA image viewer)
-
-
-
-
-🌱 <b>Learning:</b> Data Structures & Algorithms
-
-
-
-
-⚽ <b>Offline:</b> Watching football or playing video games
-</p>
-
-<br />
-
-<!-- Tech Stack -->
-
-<h3>🛠️ Tech Stack</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42" alt="html5 logo" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="42" alt="css3 logo" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42" alt="javascript logo" />
 </a>
 <a href="https://react.dev/" title="React">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" />
-</a>
-<a href="https://tailwindcss.com/" title="Tailwind">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="42" alt="react logo" />
 </a>
 <a href="https://www.python.org/" title="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
-</a>
-<a href="https://git-scm.com/" title="Git">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42" alt="python logo" />
 </a>
 
 <br /><br />
-
-<!-- Stats Section - Recruiters love seeing activity -->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpavongurung%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="160" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpavongurung%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="160" alt="languages graph" />
-
 </div>
